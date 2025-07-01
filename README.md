@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/danirana/leetcode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/danirana/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
