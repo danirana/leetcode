@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/danirana/leetcode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/danirana/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/danirana/leetcode/tree/master/0136-single-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/danirana/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
