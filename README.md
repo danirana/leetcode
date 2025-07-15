@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/danirana/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/danirana/leetcode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
+| [3396-valid-word](https://github.com/danirana/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/danirana/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
