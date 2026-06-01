@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/danirana/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/danirana/leetcode/tree/master/0242-valid-anagram) |
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/danirana/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/danirana/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/danirana/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/danirana/leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/danirana/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
 | [3396-valid-word](https://github.com/danirana/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/danirana/leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/danirana/leetcode/tree/master/0242-valid-anagram) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/danirana/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
