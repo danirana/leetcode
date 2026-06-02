@@ -1,25 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char, int> s_letters;
+        if (s.length() != t.length()) return false;
+
+        vector<int> frequencies(26, 0);
 
         for (char c : s) {
-            s_letters[c]++;
+            frequencies[c - 'a']++;
         }
 
         for (char c : t) {
-            if (s_letters.contains(c) && s_letters[c] != 0) {
-                s_letters[c] -= 1;
-                continue;
-            }
-            return false;
+            frequencies[c - 'a']--;
         }
 
-        bool hasNonZero = any_of(s_letters.begin(), s_letters.end(), [](const auto& pair) {
-            return pair.second != 0;
-        });
-
-        return (hasNonZero) ? false : true;
+        for (int count : frequencies) {
+            if (count != 0) return false;
+        }
         
+        return true;
     }
 };
