@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/danirana/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/danirana/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/danirana/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/danirana/leetcode/tree/master/0136-single-number) |
 | [1603-running-sum-of-1d-array](https://github.com/danirana/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/danirana/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/danirana/leetcode/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/danirana/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/danirana/leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/danirana/leetcode/tree/master/1448-maximum-69-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/danirana/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/danirana/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
