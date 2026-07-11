@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/danirana/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/danirana/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danirana/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/danirana/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/danirana/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-weighted-word-mapping](https://github.com/danirana/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/danirana/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/danirana/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/danirana/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/danirana/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -147,8 +150,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
