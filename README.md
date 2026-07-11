@@ -115,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danirana/leetcode/tree/master/0100-same-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danirana/leetcode/tree/master/0100-same-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/danirana/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
