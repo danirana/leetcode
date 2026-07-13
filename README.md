@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/danirana/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/danirana/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/danirana/leetcode/tree/master/0136-single-number) |
+| [0706-design-hashmap](https://github.com/danirana/leetcode/tree/master/0706-design-hashmap) |
 | [1603-running-sum-of-1d-array](https://github.com/danirana/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/danirana/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/danirana/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/danirana/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/danirana/leetcode/tree/master/0242-valid-anagram) |
+| [0706-design-hashmap](https://github.com/danirana/leetcode/tree/master/0706-design-hashmap) |
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/danirana/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/danirana/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/danirana/leetcode/tree/master/0002-add-two-numbers) |
+| [0706-design-hashmap](https://github.com/danirana/leetcode/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/danirana/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/danirana/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/danirana/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/danirana/leetcode/tree/master/1291-sequential-digits) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/danirana/leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/danirana/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
