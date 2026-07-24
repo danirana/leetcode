@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/danirana/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3396-valid-word](https://github.com/danirana/leetcode/tree/master/3396-valid-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/danirana/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/danirana/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/danirana/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3838-weighted-word-mapping](https://github.com/danirana/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/danirana/leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/danirana/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/danirana/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Design
 |  |
