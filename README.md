@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/danirana/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/danirana/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/danirana/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3396-valid-word](https://github.com/danirana/leetcode/tree/master/3396-valid-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/danirana/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/danirana/leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/danirana/leetcode/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/danirana/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/danirana/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/danirana/leetcode/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/danirana/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/danirana/leetcode/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/danirana/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/danirana/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/danirana/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/danirana/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
