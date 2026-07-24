@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/danirana/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/danirana/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/danirana/leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/danirana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0706-design-hashmap](https://github.com/danirana/leetcode/tree/master/0706-design-hashmap) |
 | [1603-running-sum-of-1d-array](https://github.com/danirana/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/danirana/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/danirana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/danirana/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
