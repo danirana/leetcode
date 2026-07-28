@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/danirana/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/danirana/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danirana/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/danirana/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/danirana/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/danirana/leetcode/tree/master/1791-richest-customer-wealth) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/danirana/leetcode/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
 |  |
@@ -211,8 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/danirana/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Queue
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/danirana/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
