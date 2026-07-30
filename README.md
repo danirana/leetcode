@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/danirana/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/danirana/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/danirana/leetcode/tree/master/1448-maximum-69-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danirana/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danirana/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/danirana/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/danirana/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/danirana/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/danirana/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danirana/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3396-valid-word](https://github.com/danirana/leetcode/tree/master/3396-valid-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/danirana/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/danirana/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/danirana/leetcode/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/danirana/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/danirana/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danirana/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/danirana/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/danirana/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Tree
