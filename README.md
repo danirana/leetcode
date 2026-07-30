@@ -143,11 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danirana/leetcode/tree/master/0100-same-tree) |
+| [0841-keys-and-rooms](https://github.com/danirana/leetcode/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danirana/leetcode/tree/master/0100-same-tree) |
+| [0841-keys-and-rooms](https://github.com/danirana/leetcode/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/danirana/leetcode/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/danirana/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/danirana/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
