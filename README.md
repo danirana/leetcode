@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danirana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/danirana/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/danirana/leetcode/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/danirana/leetcode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/danirana/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/danirana/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/danirana/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/danirana/leetcode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/danirana/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/danirana/leetcode/tree/master/0877-stone-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/danirana/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/danirana/leetcode/tree/master/1448-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danirana/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -230,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/danirana/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/danirana/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
