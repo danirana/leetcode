@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/danirana/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/danirana/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/danirana/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/danirana/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danirana/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/danirana/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/danirana/leetcode/tree/master/0877-stone-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/danirana/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/danirana/leetcode/tree/master/1448-maximum-69-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/danirana/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danirana/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danirana/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/danirana/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/danirana/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/danirana/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/danirana/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/danirana/leetcode/tree/master/0412-fizz-buzz) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/danirana/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/danirana/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/danirana/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/danirana/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/danirana/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
